@@ -34,7 +34,7 @@ For a workshop please delete the following block
 {% endcomment %}
 
 <div class="alert alert-danger">
-<img src="./fig/dlab-logo.png">
+<img src="./fig/dlab-logo.png">  Check out our other workshops at the <a target="_new" href="https://dlab.berkeley.edu">D-Lab</a>
 </div>
 
 {% comment %}
