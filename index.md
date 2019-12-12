@@ -34,7 +34,7 @@ For a workshop please delete the following block
 {% endcomment %}
 
 <div class="alert alert-danger">
-<img src="./fig/dlab-logo.png"></img>
+<img src="./fig/dlab-logo.png">
 </div>
 
 {% comment %}
