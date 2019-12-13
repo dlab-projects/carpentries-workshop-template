@@ -3,6 +3,7 @@
 View the live version at: https://dlab-projects.github.io/carpentries-workshop-template-2019-12-12-ttt-online-PST
 
 ![D-Lab Carpentries Jam](D-Lab%20Carpentries%20Jam.png)
+![Evan's Jam](Evan's%20Jam%201.png)
 
 # workshop-template
 
