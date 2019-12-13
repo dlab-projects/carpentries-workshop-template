@@ -37,6 +37,9 @@ For a workshop please delete the following block
 <img src="./fig/dlab-logo.png">  Check out our other workshops at the <a target="_new" href="https://dlab.berkeley.edu">D-Lab</a>
 </div>
 
+![D-Lab Carpentries Jam](D-Lab%20Carpentries%20Jam.png)
+![Evan's Jam](Evan's%20Jam%201.png)
+
 {% comment %}
 Check DC curriculum
 {% endcomment %}
