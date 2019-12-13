@@ -2,6 +2,8 @@
 
 View the live version at: https://dlab-projects.github.io/carpentries-workshop-template-2019-12-12-ttt-online-PST
 
+![D-Lab Carpentries Jam](D-Lab%20Carpentries%20Jam.png)
+
 # workshop-template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
